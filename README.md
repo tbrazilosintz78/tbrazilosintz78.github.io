@@ -28,11 +28,17 @@ Explore my repositories, contribute ideas, and feel free to get in touch to disc
 
 ______________________ ______________________ ______________________ ______________________ ______________________ ______________________
 
-### [+] 📱 ONDE ESTOU? -- WHERE AM I?
+### [+] 📱 QUEM SOU EU? -- WHO AM I?
 
-[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://#)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://#)
-[![CEO E CRIADOR ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)<br/>
+Graduado na área de Investigação Forense e Perícia Criminal, tenho conhecimentos em Python, Análise de Dados, Ethical Hacking, Osint, Forense Digital e Cibersegurança. 
+
+Formei-me em Tecnólogo em Investigação Forense e Perícia Criminal pela UNIASSELVI e fiz o curso técnico em Programação Python e Introdução à Inteligência Artificial pelo Senai São Paulo. 
+
+Estou em constante aprendizado e atualização sobre as novas tecnologias e metodologias aplicadas à minha profissão. 
+
+Tenho interesse em atuar na área de Cibersegurança, Threat Intelligence, Threat Hunting, Osint, Forense Digital, que visa o combate a crimes cibernéticos, utilizando técnicas de coleta, análise e preservação de evidências digitais.
+
+[![CEO E CRIADOR ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lidmasil)<br/>
 
 ______________________ ______________________ ______________________ ______________________ ______________________ ______________________
 
@@ -60,7 +66,7 @@ ______________________ ______________________ ______________________ ___________
 ______________________ ______________________ ______________________ ______________________ ______________________ ______________________
  
 ### [+] ⚙ ULTIMOS TRABALHOS -- LAST WORKS
-- [ Crimes Cibernéticos ](https://notion.io)<br/>
+- [ TBrazil Osint z78 ](https://t.me/)<br/>
 
 
 
