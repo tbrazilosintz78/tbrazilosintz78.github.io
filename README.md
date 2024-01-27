@@ -55,7 +55,7 @@ ______________________ ______________________ ______________________ ___________
 
 ### [+] 💲 NÃO PODE FALTAR O CAFÉ -- CAN'T MISS THE COFFEE
 
-[![STRIPE](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://stripe.com)<br/>
+[![STRIPE](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://donate.stripe.com/eVag2Ie5LbxuaPK3cc)<br/>
 
 ______________________ ______________________ ______________________ ______________________ ______________________ ______________________
 
